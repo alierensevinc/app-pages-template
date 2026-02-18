@@ -5,11 +5,7 @@ Here is the list of placeholders found in `index.html`, `privacy-policy.html`, a
 - `[APP_NAME]`
 - `[APP_STORE_URL]`
 - `[APP_TITLE]`
-- `[FAQ_1_ANSWER]`
-- `[FAQ_1_QUESTION]`
-- `[FAQ_2_ANSWER]`
-- `[FAQ_2_QUESTION]`
-- `[FAQ_TITLE]`
+
 - `[FEATURE_1_DESCRIPTION]`
 - `[FEATURE_1_ICON]`
 - `[FEATURE_1_TITLE]`
@@ -23,4 +19,4 @@ Here is the list of placeholders found in `index.html`, `privacy-policy.html`, a
 - `[HERO_DESCRIPTION]`
 - `[HERO_TITLE]`
 - `[LOGO_TEXT]`
-- `[SCREENSHOTS_TITLE]`
+

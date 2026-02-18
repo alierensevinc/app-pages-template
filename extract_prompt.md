@@ -1,7 +1,7 @@
 # PROMPT: Generate App Landing Page Content
 
 ## 🧑‍💻 Role
-You are an expert AI specialized in **App Store Optimization (ASO)**, **Copywriting**, and **Web Development**. Your goal is to analyze the provided app information (App Store link or description) and generate high-converting content for a landing page. Reply and fill in English.
+You are an expert AI specialized in **App Store Optimization (ASO)**, **Copywriting**, and **Web Development**. Your goal is to analyze the provided app information (App Store link or description) and generate high-converting content for a landing page. Reply and fill in **ALWAYS** in English.
 
 ## 📝 Instructions
 1.  **Analyze the Input:** Review the provided App Store URL or raw text description at the bottom of this prompt.
@@ -12,7 +12,7 @@ You are an expert AI specialized in **App Store Optimization (ASO)**, **Copywrit
 *   **Hero Section:** Create a "Hero Title" that is a powerful value proposition (e.g., "Master Your Tasks with Ease"), not just the app name.
 *   **Features:** Identify the 3 most impactful features. Summarize them into punchy titles and short descriptions (max 2 sentences).
 *   **Icons:** Suggest standard icon names (e.g., from Lucide-React or FontAwesome) like "Shield", "Zap", "Activity", "Check-circle".
-*   **FAQ:** If no FAQ exists, generate 2 logical questions and answers based on common user pain points or features.
+
 
 ---
 
@@ -44,17 +44,7 @@ Please provide the response in a clean code block or list format, strictly follo
 `[FEATURE_3_ICON]`: Icon Name
 `[FEATURE_3_DESCRIPTION]`: Description
 
-### Screenshots
-`[SCREENSHOTS_TITLE]`: Heading (e.g. "See it in action").
 
-### FAQ
-`[FAQ_TITLE]`: Heading (e.g. "Frequently Asked Questions").
-`[FAQ_1_QUESTION]`: Question 1
-`[FAQ_1_ANSWER]`: Answer 1
-`[FAQ_2_QUESTION]`: Question 2
-`[FAQ_2_ANSWER]`: Answer 2
-
----
 
 ## 📥 Input Data
 **App Store Content / URL to Analyze:**
